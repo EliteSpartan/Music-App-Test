@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music App Test</string>
+    
+
+    <!-- Intro Slide Titles -->
+    <string name="intro_slide_one_title">Music App</string>
+    <string name="intro_slide_two_title">Permissions</string>
+    <string name="intro_slide_three_title">Slide 3</string>
+
+    <!-- Intro Slide Descriptios -->
+    <string name="intro_slide_one_desc">The best of the best Music Apps</string>
+    <string name="intro_slide_two_desc">We need to have access to your phone storage to be able to
+        play your songs. This is a requirement to run this app.</string>
+
+    <!-- Menu Item Titles -->
+    <string name="menu_settings">Settings</string>
+
+    <!-- Snackbar Text Items -->
+    <string name="settings">Settings was Clicked</string>
+    
+</resources>

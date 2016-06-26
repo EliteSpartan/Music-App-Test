@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- Intro Page Colours -->
+    <color name="intro_page_one">#1976d2</color>
+    <color name="intro_page_one_dark">#1565c0</color>
+    <color name="intro_page_two">#303f9f</color>
+    <color name="intro_page_two_dark">#283593</color>
+
+</resources>

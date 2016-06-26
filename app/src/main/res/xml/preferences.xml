@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Other">
+
+        <Preference
+            android:title="View Introduction"
+            android:summary="Revisit the Introduction to this app"
+            android:key="intro"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
